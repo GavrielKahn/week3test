@@ -1,0 +1,18 @@
+#chicken{
+	background: gray;
+	color: #222;
+	margin-top: 30px;
+	padding: 20px;
+}
+.container-fluid{
+	background-color: gray;
+}
+.navbar .navbar-brand{
+	color: #222;
+}
+.navbar-default .navbar-nav>li>a{
+	color: #222;
+}
+.navbar-default .navbar-toggle .icon-bar{	
+background-color: #222;
+}
